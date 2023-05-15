@@ -15,7 +15,7 @@ class CircularImage extends StatelessWidget {
           padding: const EdgeInsets.only(top: 70),
           child: ClipRRect(
             borderRadius: const BorderRadius.only(
-              topRight: Radius.circular(40),
+              topRight: Radius.circular(20),
               topLeft: Radius.circular(40),
               bottomLeft: Radius.circular(40),
               bottomRight: Radius.circular(40),
@@ -29,7 +29,7 @@ class CircularImage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 10),
           child: Text(
-            'M. Fadhlan',
+            'Mabrur febrian',
             style: GoogleFonts.poppins(
               fontSize: 20,
             ),

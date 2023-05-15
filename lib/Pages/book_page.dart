@@ -14,7 +14,7 @@ class BookPage extends StatelessWidget {
           Colors.purple,
           Color.fromARGB(255, 171, 81, 114)
         ]),
-        title: const Text('M. Fadhlan'),
+        title: const Text('Mabrur febrian'),
       ),
       body: SafeArea(
         child: ListView(
